@@ -22,3 +22,8 @@ lerna-debug.log*
 # temp directory
 .temp
 .tmp
+
+# Ignore lock file for library
+package-lock.json
+pnpm-lock.yaml
+yarn.lock

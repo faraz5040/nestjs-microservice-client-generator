@@ -1,0 +1,22 @@
+{
+  "jsc": {
+    "parser": {
+      "syntax": "typescript",
+      "tsx": false,
+      "decorators": true,
+      "dynamicImport": true
+    },
+    "transform": {
+      "decoratorMetadata": true,
+      "legacyDecorator": true
+    },
+    "target": "es2023",
+    "loose": true,
+    "keepClassNames": true,
+    "externalHelpers": true
+  },
+  "module": {
+    "type": "nodenext"
+  },
+  "isModule": true
+}

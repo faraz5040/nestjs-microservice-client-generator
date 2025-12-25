@@ -1,0 +1,19 @@
+{
+  "name": "nestjs-microservices-client-generator",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@nestjs/microservices": "^11.1.10",
+    "@swc/helpers": "~0.5.11",
+    "rxjs": "^7.8.2"
+  },
+  "devDependencies": {
+    "@nestjs/common": "^11.1.10",
+    "fast-glob": "^3.3.3",
+    "prettier": "^3.7.4",
+    "remeda": "^2.32.0",
+    "ts-morph": "^27.0.2"
+  }
+}
